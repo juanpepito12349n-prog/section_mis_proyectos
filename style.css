@@ -1,0 +1,15 @@
+#portfolio{
+    max-width: 1100px;
+    padding: 100px o;
+    margin: auto;
+}
+
+#portdolio.titulo-selection{
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: 111135;
+    text-decoration: underline;
+    text-decoration-color: #d3d3d3;
+    text-decoration-thickness: 5px;
+}
